@@ -7,6 +7,7 @@ Para mim, o que faz total sentido é:<br/>
 🔹Tomar decisões baseadas em dados (quantitativo e qualitativo);<br/>
 🔹Antecipar problemas e necessidades dos usuários, trabalhando em conjunto com o Squad.
 <br/>
+
 ✅Engajada em levar solução aos usuários,<br/>
 ✅Gosto de desafios,<br/>
 ✅Proativa,<br/>
@@ -18,4 +19,3 @@ Web Design, UX/UI Design, HTML, CSS, Figma, Adobe XD.
 📱Tenho interesse em: React Native/ React.
 <br/>
 📫 LinkedIn https://www.linkedin.com/in/stephanie-tabosa/
-
