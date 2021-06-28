@@ -17,6 +17,7 @@ Para mim, o que faz total sentido é:
 
 💻 Atualmente me aprofundando em:
 Web Design, UX/UI Design, HTML, CSS, Figma, Adobe XD.
+<br/>
 📱 Tenho interesse em: React Native/ React.
 <br/>
 📫 LinkedIn https://www.linkedin.com/in/stephanie-tabosa/
