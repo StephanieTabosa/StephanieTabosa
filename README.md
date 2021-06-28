@@ -1,6 +1,5 @@
 Para mim, o que faz total sentido é:
 
-<br/>
 🔹Transformar problemas em experiências surpreendentes;<br/>
 🔹Pesquisar, prototipar, desenhar interfaces mobile, desktop e web;<br/>
 🔹Conduzir pesquisas qualitativas e quantitativas;<br/>
