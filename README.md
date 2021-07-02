@@ -19,5 +19,6 @@ Para mim, o que faz total sentido é:
 - UX/UI Design, Figma, Adobe XD.
 
 📚Tenho conhecimento em:
-- Web Design, HTML, CSS, JavaScript.<br/>
+- Web Design, HTML, CSS, JavaScript.
+
 📫 LinkedIn https://www.linkedin.com/in/stephanie-tabosa/
