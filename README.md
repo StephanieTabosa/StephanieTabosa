@@ -15,9 +15,8 @@ Para mim, o que faz total sentido é:
 ✅ Curiosa,<br/>
 ✅ Analítica e detalhista.<br/>
 
-💻 Atualmente me aprofundando em:
-Web Design, UX/UI Design, HTML, CSS, Figma, Adobe XD.
-<br/>
-📱 Tenho interesse em: React Native/ React.
-<br/>
+💻 Atualmente me especializando em:<br/>
+- UX/UI Design, Figma, Adobe XD.<br/>
+📚Tenho conhecimento em:<br/>
+- Web Design, HTML, CSS, JavaScript.<br/>
 📫 LinkedIn https://www.linkedin.com/in/stephanie-tabosa/
