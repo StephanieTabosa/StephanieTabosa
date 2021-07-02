@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, meu nome é Stèphanie</h1>
-<h3 align="center">UX/UI Designer, front-end developer</h3>
+<h3 align="center">UX/UI Designer, Front-end developer</h3>
 
 Para mim, o que faz total sentido é:
 
