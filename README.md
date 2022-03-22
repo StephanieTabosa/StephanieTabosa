@@ -19,7 +19,7 @@ Para mim, o que faz total sentido é:
 ✅ Analítica e detalhista.<br/>
 
 💻 Atualmente me especializando em:
-- UX/UI Design, Figma, Adobe XD.
+- UX/UI Design, Figma, Front-end.
 
 📚Tenho conhecimento em:
 - Web Design, HTML, CSS, JavaScript.
