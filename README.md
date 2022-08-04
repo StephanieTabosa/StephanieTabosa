@@ -1,14 +1,11 @@
 <h1 align="center">Olá 👋, meu nome é Stèphanie</h1>
-<h3 align="center">UX/UI Designer, Front-end Developer</h3>
+<h3 align="center">Mobile Developer</h3>
 
 Para mim, o que faz total sentido é:
 
 🔹 Transformar problemas em experiências surpreendentes;<br/>
-🔹 Pesquisar, prototipar, desenhar interfaces mobile, desktop e web;<br/>
-🔹 Conduzir pesquisas qualitativas e quantitativas;<br/>
-🔹 Aplicar métodos de validação, como testes de usabilidade;<br/>
+🔹 Prototipação e Desenvolvimendo Mobile<br/>
 🔹 Auxiliar na validação de novas ideias e novas funcionalidades;<br/>
-🔹 Tomar decisões baseadas em dados (quantitativo e qualitativo);<br/>
 🔹 Antecipar problemas e necessidades dos usuários, trabalhando em conjunto com o Squad.
 <br/>
 
@@ -19,10 +16,10 @@ Para mim, o que faz total sentido é:
 ✅ Analítica e detalhista.<br/>
 
 💻 Atualmente me especializando em:
-- UX/UI Design, Figma, Front-end.
+- Flutter, Dart.
 
 📚Tenho conhecimento em:
-- Web Design, HTML, CSS, JavaScript.
+- Web Design, HTML, CSS, JavaScript, Figma, Testes de Usabilidade, Boas práticas de interface.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
