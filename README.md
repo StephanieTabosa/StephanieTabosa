@@ -36,7 +36,7 @@
 Para mim, o que faz total sentido é:
 
 🔹 Transformar problemas em experiências surpreendentes;<br/>
-🔹 Prototipação e Desenvolvimendo Mobile<br/>
+🔹 Prototipação e Desenvolvimento Mobile<br/>
 🔹 Auxiliar na validação de novas ideias e novas funcionalidades;<br/>
 🔹 Antecipar problemas e necessidades dos usuários, trabalhando em conjunto com o Squad.
 <br/>
