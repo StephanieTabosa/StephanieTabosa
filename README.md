@@ -11,12 +11,12 @@
 
 **Aplicações**
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![DART](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![DART](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
   
 
 **Utilidades**
