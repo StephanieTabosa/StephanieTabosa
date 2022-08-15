@@ -4,7 +4,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando Sistemas para Internet com ênfase em Front-end na <a href="https://descomplica.com.br/faculdade/tecnologia/sistemas-para-internet/">Descomplica</a> e pós-graduando em UX/UI na <a href="[https://descomplica.com.br/faculdade/tecnologia/sistemas-para-internet/](https://unyleya.edu.br/pos-graduacao-ead/curso/user-experience-user-interface/)">Unyleya</a>.
-- 💼 &nbsp; Trabalhando como Product Designer na <a href="https://www.minu.co/">Minu.co</a>
+- 💼 &nbsp; Trabalhando como Flutter Developer na <a href="https://dimensa.com/">Dimensa</a>
 - 🌱 &nbsp; Aprendendo mais sobre Flutter e Dart.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
