@@ -60,18 +60,3 @@ Para mim, o que faz total sentido é:
 <a href="https://linkedin.com/in/stephanie-tabosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephanie-tabosa" height="30" width="40" /></a>
 <a href="https://instagram.com/tabosastephanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tabosastephanie" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephanietabosa&show_icons=true&locale=en&layout=compact" alt="stephanietabosa" /></p>
-
-
-<br/>
-
-<a href="https://github.com/StephanieTabosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephanieTabosa&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
-
-
