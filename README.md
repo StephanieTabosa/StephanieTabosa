@@ -3,7 +3,7 @@
 
 <h3> :woman: &nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Estudando Sistemas para Internet com ênfase em Front-end na <a href="https://descomplica.com.br/faculdade/tecnologia/sistemas-para-internet/">Descomplica</a> e pós-graduada em UX/UI na <a href="[https://descomplica.com.br/faculdade/tecnologia/sistemas-para-internet/](https://unyleya.edu.br/pos-graduacao-ead/curso/user-experience-user-interface/)">Unyleya</a>.
+- 🎓 &nbsp; Estudando Sistemas para Internet com ênfase em Front-end na <a href="https://descomplica.com.br/faculdade/tecnologia/sistemas-para-internet/">Descomplica</a> e pós-graduada em UX/UI na <a href="https://unyleya.edu.br/pos-graduacao-ead/curso/user-experience-user-interface/">Unyleya</a>.
 - 💼 &nbsp; Trabalhando como Flutter Developer na <a href="https://dimensa.com/">Dimensa</a>
 - 🌱 &nbsp; Aprendendo mais sobre Flutter e Dart.
 
@@ -38,15 +38,7 @@
   
 <br/>
 
-Para mim, o que faz total sentido é:
 
-🔹 Transformar problemas em experiências surpreendentes;<br/>
-🔹 Prototipação e Desenvolvimento Mobile;<br/>
-🔹 Auxiliar na validação de novas ideias e novas funcionalidades;<br/>
-🔹 Antecipar problemas e necessidades dos usuários, trabalhando em conjunto com o Squad.
-<br/>
-
-✅ Engajada em levar solução aos usuários,<br/>
 ✅ Gosto de desafios,<br/>
 ✅ Proativa,<br/>
 ✅ Curiosa,<br/>
