@@ -44,7 +44,7 @@
 ✅ Curiosa,<br/>
 ✅ Analítica e detalhista.<br/>
 
-💻 Atualmente me especializando em:
+💻 Atualmente trabalhando com:
 - Flutter, Dart, Clean Architecture, Bloc/Cubit, Modular.
 
 📚Tenho conhecimento em:
