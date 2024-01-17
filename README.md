@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Estudando Sistemas para Internet com ênfase em Front-end na <a href="https://descomplica.com.br/faculdade/tecnologia/sistemas-para-internet/" target="_blank">Descomplica</a> e pós-graduada em UX/UI na <a href="https://unyleya.edu.br/pos-graduacao-ead/curso/user-experience-user-interface/" target="_blank">Unyleya</a>.
 - 💼 &nbsp; Trabalhando como Flutter Developer na <a href="https://dimensa.com/" target="_blank">Dimensa</a>
 - 🌱 &nbsp; Flutter e Dart.
-- 🌱 Swift (UI Kit), Coordinator, ViewCode, Storyboard.
+- 🌱 &nbsp; Swift (UI Kit), Coordinator, ViewCode, Storyboard.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
