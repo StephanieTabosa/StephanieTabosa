@@ -1,60 +1,28 @@
-<h1 align="center">Olá 👋, meu nome é Stèphanie</h1>
+<h1 align="center">Hi 👋, I'm Stèphanie Tabosa</h1>
 <h3 align="center">Mobile Developer</h3>
 
-<h3> :woman: &nbsp;Sobre mim </h3>
+- 🔭 I’m currently working with **Flutter Developer na Dimensa**
 
-- 🎓 &nbsp; Estudando Sistemas para Internet com ênfase em Front-end na <a href="https://descomplica.com.br/faculdade/tecnologia/sistemas-para-internet/" target="_blank">Descomplica</a> e pós-graduada em UX/UI na <a href="https://unyleya.edu.br/pos-graduacao-ead/curso/user-experience-user-interface/" target="_blank">Unyleya</a>.
-- 💼 &nbsp; Trabalhando como Flutter Developer na <a href="https://dimensa.com/" target="_blank">Dimensa</a>
-- 💼 &nbsp; Flutter e Dart.
-- 🌱 &nbsp; Swift (UI Kit), Coordinator, ViewCode, Storyboard.
+- 🌱 I’m currently learning **Swift (UI Kit), Coordinator, ViewCode, MVVM**
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+- 💬 Ask me about **Flutter | iOS | Dart | Swift | Firebase | SOLID | TDD | Clean Architecture | MVVM**
 
-**Aplicações**
+- 👯 I have worked and collaborated with **Web Design, HTML, CSS, JavaScript, Figma, Usability Testing, Interface good practices**
 
-  ![DART](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  
+- 👨‍💻 Some UI/UX projects you can find at [https://www.behance.net/stphanietabosa](https://www.behance.net/stphanietabosa)
 
-**Utilidades**
+- 📝 I regularly write articles on [https://medium.com/@tabosastephanie](https://medium.com/@tabosastephanie)
 
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+- 📫 How to reach me **stabosastephanie@gmail.com**
 
-**DevOps**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EYRhGFvJvzgpNrSs89qSaL7Wo5_WADmc/view?usp=drive_link](https://drive.google.com/file/d/1EYRhGFvJvzgpNrSs89qSaL7Wo5_WADmc/view?usp=drive_link)
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de Desenvolvimento e Prototipação**
-
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
-  ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=xcode&logoColor=007ACC)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
-  
-<br/>
-
-
-✅ Gosto de desafios,<br/>
-✅ Proativa,<br/>
-✅ Curiosa,<br/>
-✅ Analítica e detalhista.<br/>
-
-💻 Atualmente trabalhando com:
-- Flutter, Dart, Clean Architecture, Bloc/Cubit, Modular.
-
-📚Tenho conhecimento em:
-- Web Design, HTML, CSS, JavaScript, Figma, Testes de Usabilidade, Boas práticas de interface.
-
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stephanie-tabosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephanie-tabosa" height="30" width="40" /></a>
-<a href="https://instagram.com/tabosastephanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tabosastephanie" height="30" width="40" /></a>
+<a href="https://www.behance.net/stphanietabosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="stphanietabosa" height="30" width="40" /></a>
+<a href="https://medium.com/@tabosastephanie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tabosastephanie" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
