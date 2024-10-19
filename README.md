@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stèphanie Tabosa</h1>
 <h3 align="center">Mobile Developer</h3>
 
-- 🔭 I’m currently working with **Flutter Developer na Dimensa**
+- 🔭 I’m currently working with **Flutter Developer & iOS na Dimensa**
 
 - 🌱 I’m currently learning **Swift (UI Kit), Coordinator, ViewCode, MVVM**
 
