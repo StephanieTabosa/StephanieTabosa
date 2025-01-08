@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working with **Flutter Developer & iOS na Dimensa**
 
-- 🌱 I’m currently learning **Swift (UI Kit), Coordinator, ViewCode, MVVM**
+- 👩‍💻 **Swift (UI Kit), ViewCode, MVVM-C**
 
-- 💬 Ask me about **Flutter | iOS | Dart | Swift | Firebase | SOLID | TDD | Clean Architecture | MVVM**
+- 💬 Ask me about **Flutter | iOS | Dart | Swift | Firebase | SOLID | TDD | Clean Architecture**
 
 - 👯 I have worked and collaborated with **Web Design, HTML, CSS, JavaScript, Figma, Usability Testing, Interface good practices**
 
