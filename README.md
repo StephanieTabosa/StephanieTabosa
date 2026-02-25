@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stèphanie Tabosa</h1>
 <h3 align="center">Mobile Developer</h3>
 
-- 👩‍💻 **Flutter (Dart), GetIt, Clean Architecture**
+- 👩‍💻 **Flutter (Dart), GetIt, Modular, Bloc/Cubit, Clean Architecture**
   
 - 👩‍💻 **Swift (UI Kit), ViewCode, MVVM-C**
 
