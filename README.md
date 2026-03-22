@@ -5,6 +5,8 @@
   
 - 👩‍💻 **Swift (UI Kit), ViewCode, MVVM-C**
 
+- - 👩‍💻 **React Native, Expo**
+
 - 💬 Ask me about **Flutter | iOS | Dart | Swift | Firebase | SOLID | TDD | Clean Architecture**
 
 - 👯 I have worked and collaborated with **Web Design, HTML, CSS, JavaScript, Figma, Usability Testing, Interface good practices**
