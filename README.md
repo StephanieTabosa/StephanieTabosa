@@ -5,7 +5,7 @@
   
 - 👩‍💻 **Swift (UI Kit), ViewCode, MVVM-C**
 
-- - 👩‍💻 **React Native, Expo**
+- 👩‍💻 **React Native, Expo**
 
 - 💬 Ask me about **Flutter | iOS | Dart | Swift | Firebase | SOLID | TDD | Clean Architecture**
 
